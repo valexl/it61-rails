@@ -50,6 +50,7 @@ ru:
     sidebar:
       login: Вход
       register: Регистрация
+      my_settings: Мои настройки
       vk: Вконтакте
       facebook: Facebook
       events: Мероприятия
@@ -107,6 +108,7 @@ ru:
       organizer_unpublished_block_title: Не опубликованы
       member_block_title: Участник мероприятий
       edit: Редактировать
+      my_settings: Мои настройки
       logout: Выйти
     linked_accounts:
       title: Аккаунты соцсетей
